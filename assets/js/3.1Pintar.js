@@ -8,7 +8,7 @@
 
   let ele = document.querySelector ("#ele1");
 
-  ele.addEventListener("click", function(pintar){
+  ele.addEventListener("click", function(){
      ele.style.backgroundColor = 'yellow'
   });
 
