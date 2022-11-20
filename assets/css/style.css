@@ -1,5 +1,51 @@
-div {
-    margin-top: 25px;
-    margin-bottom: 20px;
-    padding-bottom: 20px;
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#mainBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 80px;
+    gap: 30px;
+  
+   
+}
+
+#box1 {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+#box2 { 
+    background-color: palevioletred;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+#box3 {
+    background-color: plum;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+#box4 {
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+  
+}
+
+h3 {
+text-align: center;
+}
+h4 {
+    text-align: center;
+}
+
+
